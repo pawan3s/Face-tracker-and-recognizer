@@ -1,0 +1,1 @@
+The simple python algorith to detect faces, take samples nby taking pictures of faces and identify using LBPHFaceRecognizer. 
